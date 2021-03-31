@@ -7,3 +7,7 @@
 ```
  node index.js
 ```
+### API utilisée :
+```
+ahamadaarticles.herokuapp.com
+```
