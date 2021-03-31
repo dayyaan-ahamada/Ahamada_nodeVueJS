@@ -39,7 +39,6 @@ export default {
 
   methods: {
     logout() {
-      window.print(this.$router);
       localStorage.removeItem("user");
       localStorage.removeItem("user_token");
       this.$router.push("/articles");
